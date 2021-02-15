@@ -19,7 +19,7 @@ Project is created with:
 * Gmail API
 
 ## Setup (IMPORTANT!)
-DEMO ON YOUTUBE: https://youtu.be/zuCEpqoPXr4
+DEMO ON YOUTUBE: https://youtu.be/vhFRo3Kn3bs
 
 Probably you may have to allowed to use "less secure app" in setting on your Gmail account !!!
 
